@@ -1,0 +1,18 @@
+{
+  "user_heavensdoor": {
+    "subtitle": "rotp_heavensdoor.subtitle.heavensdoor_name",
+    "sounds": [ "rotp_heavensdoor:stand_user/user_heavensdoor", "rotp_heavensdoor:stand_user/user_heavensdoor_2", "rotp_heavensdoor:stand_user/user_heavensdoor_free_3", "rotp_heavensdoor:stand_user/user_heavensdoor_4" ]
+  },
+  "heavensdoor_ora": {
+    "subtitle": "jojo.subtitle.ora",
+    "sounds": [ "rotp_heavensdoor:stand/heavensdoor_ora" ]
+  },
+  "heavensdoor_ora_long": {
+    "subtitle": "jojo.subtitle.ora",
+    "sounds": [ "rotp_heavensdoor:stand/heavensdoor_ora_long", "rotp_heavensdoor:stand/heavensdoor_ora_long_2" ]
+  },
+  "heavensdoor_ora_ora_ora": {
+    "subtitle": "jojo.subtitle.ora_ora_ora",
+    "sounds": [ "rotp_heavensdoor:stand/heavensdoor_ora_ora_ora", "rotp_heavensdoor:stand/heavensdoor_ora_ora_ora_2", "rotp_heavensdoor:stand/heavensdoor_ora_ora_ora_3" ]
+  }
+}
