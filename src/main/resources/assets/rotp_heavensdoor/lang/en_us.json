@@ -1,9 +1,0 @@
-{
-  "entity.rotp_heavensdoor.heavensdoor": "Heavensdoor Stand",
-  "stand.rotp_heavensdoor.heavensdoor": "Heavensdoor Stand",
-  "action.rotp_heavensdoor.heavensdoor_punch": "Punch",
-  "action.rotp_heavensdoor.heavensdoor_heavy_punch": "Heavy Punch",
-  "action.rotp_heavensdoor.heavensdoor_barrage": "Barrage",
-  "action.rotp_heavensdoor.heavensdoor_block": "Block",
-  "rotp_heavensdoor.subtitle.heavensdoor_name": "\"Heavensdoor Stand\""
-}
